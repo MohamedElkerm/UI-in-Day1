@@ -1,6 +1,6 @@
 # day 1 in 30 days challenge 
 
-A new Flutter project.
+Day 1 
 
 ## Getting Started
 
